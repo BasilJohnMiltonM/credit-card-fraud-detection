@@ -6,7 +6,7 @@ This project explores fraud detection in financial transactions using **Explorat
 ## 📂 Project Structure
 ```
 ├── fraud_detection.ipynb  # Jupyter Notebook containing all steps
-├── creditcard.csv         # Dataset (not included in repo)
+├── creditcard.csv         # Dataset
 └──README.md              # Project documentation
 ```
 
